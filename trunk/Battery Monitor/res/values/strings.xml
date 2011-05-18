@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BatteryMonitor!</string>
+    <string name="app_name">Battery Monitor</string>
+    <string name="START">Start Monitor</string>
+    <string name="BACKUP">Backup</string>
+</resources>
